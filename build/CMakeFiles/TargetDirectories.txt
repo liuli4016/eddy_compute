@@ -1,0 +1,3 @@
+/Users/liliu/Myproject/eddycp/build/CMakeFiles/edit_cache.dir
+/Users/liliu/Myproject/eddycp/build/CMakeFiles/rebuild_cache.dir
+/Users/liliu/Myproject/eddycp/build/CMakeFiles/eddycp.dir

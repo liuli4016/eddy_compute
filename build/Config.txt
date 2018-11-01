@@ -1,0 +1,26 @@
+# 
+# This is the config file for the Feature-Based Eddy Computation Program. 
+# The example assumes that all the data files are saved with the same basefile and then time index added to the end of the file.
+
+ DATA_FILES_PATH:  /Users/liliu/Data/
+ GENERATED_FILES_PATH:  /Users/liliu/Data/rrr/
+ FILE_BASE_NAME: na
+ FILE_EXTENSION: .nc
+ INITIAL_TIME_STEP: 1
+ FINAL_TIME_STEP: 1
+ TIME_STEP_INCREMENT: 1
+ TIME_STEP_PRECISION: 1
+ VARIABLE_NAMES: omega
+ SMALLEST_OBJECT_VOLUME_TO_TRACK: 150
+ X_Dim: 722
+ Y_Dim: 362
+ Z_Dim: 40
+ Lon_Max: 350
+ Lat_Max: 43
+ Alt_Max: -0.02
+ Lon_Min: 283
+ Lat_Min: 30
+ Alt_Min: -2
+
+
+# end of file...
